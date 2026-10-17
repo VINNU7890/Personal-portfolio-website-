@@ -19,8 +19,7 @@
 </a>
 
 ### 🌐 Live Demo
-> **[🔗 View Live Portfolio Demo](https://your-live-link.vercel.app)**  
->  
+> https://personal-portfolio-website-pi-virid.vercel.app/
 
 </div>
 
