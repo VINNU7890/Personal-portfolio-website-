@@ -20,7 +20,7 @@
 
 ### 🌐 Live Demo
 > **[🔗 View Live Portfolio Demo](https://your-live-link.vercel.app)**  
-> *(Note: Replace `https://your-live-link.vercel.app` with your production URL after deploying to Vercel/Netlify)*
+>  
 
 </div>
 
